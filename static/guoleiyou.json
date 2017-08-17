@@ -1,0 +1,33 @@
+[
+	
+	{
+		"eviceId":"0",
+		"className":"icon-xingzhuang9",
+		"colorName":"yanse1",
+		"name":"出境游",
+		"jianjie":"优质国外出境旅游,完整接送流程超过2000条线路,任意选择"
+	},
+	{
+		"eviceId":"1",
+		"className":"icon-xingzhuang8",
+		"colorName":"yanse2",
+		"name":"港澳游",
+		"jianjie":"快速组团通关服务,让您快速到达目的地与多家景点深入合作,让您畅游香港"
+	},
+	{
+		"eviceId":"2",
+		"className":"icon-xingzhuang10",
+		"colorName":"yanse3",
+		"name":"国内游",
+		"jianjie":"强大的接团队,通行全国超过3000条线路,消费透明,高端享受"
+	},
+	{
+		"eviceId":"3",
+		"className":"icon-xingzhuang7",
+		"colorName":"yanse4",
+		"name":"周边游",
+		"jianjie":"优质名宿、景点应有尽有配套出行,大型巴士直达景点、酒店 "
+	}
+	
+	
+]

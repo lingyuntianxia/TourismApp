@@ -1,0 +1,50 @@
+[
+    [
+        {
+        	"deviceId":"0",
+            "className": "icon-xingzhuang9",
+           	"colorName":"yanse1",
+            "content": "出境游"
+        },
+        {
+        	"deviceId":"1",
+            "className": "icon-xingzhuang8",
+            "colorName":"yanse2",
+            "content": "港澳游"
+        },
+        {
+        	"deviceId":"2",
+            "className": "icon-xingzhuang10",
+            "colorName":"yanse3",
+            "content": "国内游"
+        },
+        {
+        	"deviceId":"3",
+            "className": "icon-xingzhuang7",
+            "colorName":"yanse4",
+            "content": "周边游"
+        }
+    ],
+    [
+        {
+            "className1": "bck_img1",
+            "className2": "kd1",
+            "content1": "荐",
+            "content2": "惠",
+            "emali": "加拿大",
+            "jianshao1": "【标准】加拿大英法风情九天团",
+            "jianshao2": "全程五星酒店,啤酒任喝,炸鸡任吃......",
+            "money": "2300"
+        },
+        {
+            "className1": "bck_img2",
+            "className2": "kd2",
+            "content1": "荐",
+            "content2": "惠",
+            "emali": "云南",
+            "jianshao1": "【标准】云南丽江5天4晚跟团游",
+            "jianshao2": "全程五星酒店,啤酒任喝,炸鸡任吃......",
+            "money": "2300"
+        }
+    ]
+]
